@@ -33,3 +33,6 @@ Here are some ideas to get you started:
   - 20 years old
   - Came to the U.S to play college tennis 	:tennis:
   - Fluent in 4 languages 
+  - Started programming in 2016, in High School
+  - Went to a technical High School specialized in IT and Programming
+  - My goal is to become a full-stack web developer
