@@ -31,13 +31,17 @@ Here are some ideas to get you started:
   - CSS
   - Javascript
 - **Technologies**:
-  - Linux 
-  - Git/Github
+  - Node.js & Express.js
+  - EJS
   - Bootstrap CSS
   - MySQL
+  - MongoDB
+  - Passport.js
   - API
+  - Linux 
+  - Git/Github
 - :zap:	**Fun facts:**
   - 20 years old
   - Came to the U.S to play college tennis 	:tennis:
-  - Fluent in 4 languages 
+  - Fluent in 3 languages (Portuguese, Spanish and English) 
   - Started my programming journey in 2016
