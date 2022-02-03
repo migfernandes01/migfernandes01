@@ -32,10 +32,12 @@ Here are some ideas to get you started:
   - Javascript
 - **Technologies**:
   - Node.js & Express.js
+  - React.js
   - EJS
   - Bootstrap CSS
   - MySQL
   - MongoDB
+  - Google Firebase 9
   - Passport.js
   - API
   - Linux 
