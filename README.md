@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 - :man_technologist: Lover of technology and programming
 - :open_book: **Currently**:
   - Graduated in Computer Science :mortar_board:	
-  - Working to be a full-stack web developer
+  - Searching for web development jobs
   - Full-time programming learner  
   - Developing skills and projects
-  - Building my portfolio :construction:
 - :computer:	**Languages**:
   - C
   - Java
