@@ -1,48 +1,22 @@
-### Hi there, I'm Miguel 👋
+## Hi there, I'm Miguel 👋
+I am a full stack developer from Portugal, based in the United States. Currently I am a software engineer intern at [Outreach](https://www.outreach.io/).
 
-<!--
-**migfernandes01/migfernandes01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages and tools:**  
 
-Here are some ideas to get you started:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- :man:	My name is Miguel Fernandes, and I am from Portugal
-- :earth_africa: Currently living in the United States
-- :man_technologist: Lover of technology and programming
-- :open_book: **Currently**:
-  - Graduated in Computer Science :mortar_board:	
-  - Searching for web development jobs
-  - Full-time programming learner  
-  - Developing skills and projects
-- :computer:	**Languages**:
-  - C
-  - Java
-  - Python
-  - HTML
-  - CSS
-  - Javascript
-- **Technologies**:
-  - Node.js & Express.js
-  - React.js
-  - EJS
-  - Bootstrap CSS
-  - MySQL
-  - MongoDB
-  - Google Firebase 9
-  - Passport.js
-  - API
-  - Linux 
-  - Git/Github
-- :zap:	**Fun facts:**
-  - 20 years old
-  - Came to the U.S to play college tennis 	:tennis:
-  - Fluent in 3 languages (Portuguese, Spanish and English) 
-  - Started my programming journey in 2016
+**Currently learning:**
+
+<code><img height="20" src="https://s3.amazonaws.com/www.starterstory.com/tools/logos/000/000/883/original/data?1572240555"></code>
+
+**📈 My github stats:**
+
+<p color="black"> <img src="https://github-readme-stats.vercel.app/api?username=migfernandes01&show_icons=true&theme=gotham" alt="migfernandes01" />
