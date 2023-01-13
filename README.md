@@ -1,5 +1,5 @@
 ## Hi there, I'm Miguel 👋
-I am a full stack developer from Portugal, based in the United States. Currently I am a software engineer at [Outreach](https://www.outreach.io/).
+I am a full stack developer from Portugal 🇵🇹, based in the United States 🇺🇸. Currently I am a software engineer at [Outreach](https://www.outreach.io/).
 
 **Languages and tools:**  
 
@@ -19,6 +19,6 @@ I am a full stack developer from Portugal, based in the United States. Currently
 
 **📈 My github stats:**
 
-<p color="black"> <img src="https://github-readme-stats.vercel.app/api?username=migfernandes01&show_icons=true&theme=gotham" alt="migfernandes01" />
+<!-- <p color="black"> <img src="https://github-readme-stats.vercel.app/api?username=migfernandes01&show_icons=true&theme=gotham" alt="migfernandes01" /> -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=migfernandes01&theme=gotham)](https://git.io/streak-stats)
