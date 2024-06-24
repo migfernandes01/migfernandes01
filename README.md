@@ -1,5 +1,5 @@
 ## Hi there, I'm Miguel 👋
-I am a full stack developer from Portugal 🇵🇹, based in the United States 🇺🇸. Currently I am a senior software engineer at [Outreach](https://www.outreach.io/).
+I am a full stack developer from Portugal 🇵🇹, based in the United States 🇺🇸. Currently I am a senior software engineer at [Entegrata](https://www.entegrata.com/).
 
 **Languages and tools:**  
 
